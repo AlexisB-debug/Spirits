@@ -1,5 +1,7 @@
-Gin
-Vodka
-Rum
 Bourbon
+Brandy
+Gin
+Rum
 Scotch
+Tequila
+Vodka
