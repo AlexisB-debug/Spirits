@@ -1,3 +1,5 @@
+Bourbon
+Brandy
 Gin
 Vodka
 Rum
@@ -5,3 +7,7 @@ Tequila
 Brandy
 Bourbon
 Scotch
+Rum
+Scotch
+Tequila
+Vodka
